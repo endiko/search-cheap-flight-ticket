@@ -1,6 +1,7 @@
-# Небольшой сервис поиска дешевых авиабилетов 
+## Небольшой сервис поиска дешевых авиабилетов с помощью бесплатного API Aviasales
+
 ### (Search the cheapest flight tickets with vanilla JS and Aviasales API)
-## с помощью бесплатного API Aviasales
+
 ### Тренировка Javascript
 
 #### NOTE: Not supporting for IE
